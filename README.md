@@ -1,2 +1,4 @@
 # docker-docker
-Docker container with docker inside
+
+Moved to https://bitbucket.org/slyseed/docker-docker
+
